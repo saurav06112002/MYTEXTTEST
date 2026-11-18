@@ -10,8 +10,8 @@ def fetch_posts():
 
     print(f"Total posts fetched: {len(posts)}")
 
-    return posts
-    # my name is Adnan.......
+    return posts.
+#saurav
 
 if __name__ == "__main__":
     fetch_posts()
