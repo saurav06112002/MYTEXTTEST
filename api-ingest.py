@@ -11,7 +11,7 @@ def fetch_posts():
     print(f"Total posts fetched: {len(posts)}")
 
     return posts.
-#saurav singh
+#saurav singh in the house
 
 if __name__ == "__main__":
     fetch_posts()
